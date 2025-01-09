@@ -8,7 +8,7 @@ This project leverages supervised machine learning techniques to classify coral 
 * Visualization: Displaying training progress, model predictions, and classification results using visual tools.
 ## Tools and Technologies
 * Python: For scripting and analysis.
-* TensorFlow & Keras: For model development and training.
+* TensorFlow & Keras: For model development, training, image processing, and data augmentation.
 * Matplotlib & Seaborn: For visualizing data and model performance.
 ## Dataset
 The project uses a dataset of coral images categorized as healthy or not healthy. The dataset includes a variety of coral species and environmental conditions, ensuring a robust and diverse training set.
