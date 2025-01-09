@@ -1,4 +1,4 @@
-# Coral Health Classification Using Supervised Machine Learning and TensorFlow
+# Coral Health Classification Using TensorFlow
 This project leverages supervised machine learning techniques to classify coral images into two categories: healthy and not healthy. By utilizing Python and TensorFlow, the model is trained to recognize patterns in coral health conditions, aiding in environmental monitoring and conservation efforts.
 
 ## Key Features
